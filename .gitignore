@@ -18,3 +18,5 @@ MNIST/
 FashionMNIST/
 *.txt
 *.csv
+*.pth 
+*.pt 
