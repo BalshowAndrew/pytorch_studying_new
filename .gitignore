@@ -1,4 +1,8 @@
-# Python-generated files
+*.pth
+*.pt
+*.pkl
+*.onnx
+*.safetensors
 __pycache__/
 *.py[oc]
 build/
